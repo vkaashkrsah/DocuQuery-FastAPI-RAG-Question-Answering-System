@@ -1,4 +1,4 @@
-# Palm Mind RAG Backend
+# DocuQuery – FastAPI RAG Question-Answering System
 
 FastAPI backend with two REST APIs: document ingestion and conversational RAG with interview booking.
 No LangChain chains, FAISS or Chroma. The RAG pipeline is custom code.
